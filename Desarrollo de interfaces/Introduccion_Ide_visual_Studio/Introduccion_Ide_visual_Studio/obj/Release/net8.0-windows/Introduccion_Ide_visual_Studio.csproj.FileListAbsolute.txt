@@ -1,0 +1,16 @@
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\bin\Release\net8.0-windows\Introduccion_Ide_visual_Studio.exe
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\bin\Release\net8.0-windows\Introduccion_Ide_visual_Studio.deps.json
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\bin\Release\net8.0-windows\Introduccion_Ide_visual_Studio.runtimeconfig.json
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\bin\Release\net8.0-windows\Introduccion_Ide_visual_Studio.dll
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\bin\Release\net8.0-windows\Introduccion_Ide_visual_Studio.pdb
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.Form1.resources
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.csproj.GenerateResource.cache
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.AssemblyInfoInputs.cache
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.AssemblyInfo.cs
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.csproj.CoreCompileInputs.cache
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.dll
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\refint\Introduccion_Ide_visual_Studio.dll
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.pdb
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\Introduccion_Ide_visual_Studio.genruntimeconfig.cache
+C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\obj\Release\net8.0-windows\ref\Introduccion_Ide_visual_Studio.dll

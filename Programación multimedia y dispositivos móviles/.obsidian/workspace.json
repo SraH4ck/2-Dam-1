@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "70f38a9ba4a73b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce9218fcbbf0d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "091fb574788763f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba6f8a0fd4b4229",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d22999ce3cae62b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d57cb55739688e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9f03cd4363b62f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23d9259c86942f60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "565514350424d06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15212e4566794e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28af834788f9ff58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "182fb394d5e1827d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec6a957da05f1ac8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49f45006ca05fc36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "091fb574788763f1",
+  "lastOpenFiles": [
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/META-INF/ejercicioKotlin.kotlin_module",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/META-INF",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/E405Kt.class",
+    "Proyectos/ejercicioKotlin/src/E405.kt",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/E404Kt.class",
+    "Proyectos/ejercicioKotlin/src/E404.kt",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/E403Kt.class",
+    "Proyectos/ejercicioKotlin/src/E403.kt",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/E402Kt.class",
+    "Proyectos/ejercicioKotlin/src/E402.kt",
+    "Proyectos/ejercicioKotlin/out/production/ejercicioKotlin/E401Kt.class"
+  ]
+}

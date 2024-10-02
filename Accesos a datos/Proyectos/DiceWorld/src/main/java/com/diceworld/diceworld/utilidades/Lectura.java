@@ -89,14 +89,15 @@ public class Lectura {
      * @throws IOException Si ocurre un error de entrada/salida durante la lectura del archivo.
      * @throws FileNotFoundException Si no se encuentra el archivo especificado.
      */
-    public ArrayList<String> leeArchivo(File file) throws IOException,FileNotFoundException {
-        ArrayList<String>cadenasLeidas = new ArrayList<>();
-        String cadena;
-        BufferedReader br = new BufferedReader(new FileReader(file));
-        while((cadena = br.readLine())!=null){
-            cadenasLeidas.add(cadena);
+    public ArrayList<String> leeArchivo(File file) throws IOException, FileNotFoundException {
+        ArrayList<String> cadenasLeidas = new ArrayList<>();
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            String cadena;
+            while ((cadena = br.readLine()) != null) {
+                cadenasLeidas.add(cadena);
+                System.out.println("Cadena leída: " + cadena);
+            }
         }
-        br.close();
         return cadenasLeidas;
     }
 }

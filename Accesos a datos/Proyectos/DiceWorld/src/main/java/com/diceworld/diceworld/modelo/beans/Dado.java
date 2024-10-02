@@ -7,7 +7,6 @@ import java.util.Random;
  */
 public class Dado {
     private int numCaras;
-    private int resultado;
 
     public Dado(int numCaras) {
         this.numCaras = numCaras;
@@ -24,7 +23,7 @@ public class Dado {
 
     public int resultado(){
         Random random = new Random();
-        resultado = random.nextInt(numCaras) + 1; // Genera un número aleatorio entre 1 y numCaras
-        return resultado;
+        // Genera un número aleatorio entre 1 y numCaras
+        return random.nextInt(numCaras) + 1;
     }
 }

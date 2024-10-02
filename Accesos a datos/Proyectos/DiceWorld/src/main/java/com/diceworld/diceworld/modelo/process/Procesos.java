@@ -28,20 +28,26 @@ public class Procesos {
     /**
      * Este método extrae datos de un archivo txt para crear un o más objetos Jugador y los añade a un
      * contenedor de jugadores.
+     * <p></p>
+     * La línea "jugadoresCreados.clear()" es importante para mantener una sincronización a la hora de mostrar la información, porque
+     * cuando se carga un txt jugamos, guardamos, y luego cargamos un .dat jugamos y guardamos, si mostramos el archivo
+     * .dat esta actualizado, pero si cargamos el txt, no se visualiza de forma actualizada, aunque si abrimos el txt
+     * y visualizamos su contenido, si esta actualizado, pero el problema está que cuando cargamos el txt, visualizamos
+     * las propiedades del jugador usando los métodos get entonces necesitamos que se creen jugadores nuevos con los
+     * datos actualizados del txt para asegurarnos que visualizamos datos actualizados.
      * @param datosExtraer Son los datos que hay en el archivo txt.
      * @return
      */
 
     public ArrayList<Jugador> CrearJugadores(ArrayList<String> datosExtraer) {
-        if (jugadoresCreados.isEmpty()) {
-            for(String dato: datosExtraer){
-                String[] partes = dato.split(":");
-                String nombre = partes[0];
-                int partidasGanas = Integer.parseInt(partes[1]);
-                int puntos = Integer.parseInt(partes[2]);
-                Jugador jugador = new Jugador(nombre, partidasGanas, puntos);
-                jugadoresCreados.add(jugador);
-            }
+        jugadoresCreados.clear();
+        for (String dato : datosExtraer) {
+            String[] partes = dato.split(":");
+            String nombre = partes[0];
+            int partidasGanas = Integer.parseInt(partes[1]);
+            int puntos = Integer.parseInt(partes[2]);
+            Jugador jugador = new Jugador(nombre, partidasGanas, puntos);
+            jugadoresCreados.add(jugador);
         }
         return jugadoresCreados;
     }

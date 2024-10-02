@@ -210,8 +210,11 @@ public class HelloController {
     }
 
     private void mostrarDatosPartidasDat(ArrayList<Jugador> jugadores){
+        int puesto = 1;
+        ordenarJugadoresPorPartidasGanadas();
         for(Jugador jugador:jugadores){
-            txAreaRankPartidas.appendText(jugador.getNombre() + "--> " + jugador.getPartidasGanadas() + "\n");
+            txAreaRankPartidas.appendText(puesto + "º " + jugador.getNombre() + "--> " + jugador.getPartidasGanadas() + "\n");
+            puesto++;
         }
     }
 
@@ -221,26 +224,31 @@ public class HelloController {
      */
 
     private void mostrarDatosPartidas() {
+        int puesto = 1;
         borrarAreaRankingPartidas();
-        
         ordenarJugadoresPorPartidasGanadas();
 
         for (Jugador jugador : jugadores) {
-            mostrarInformacionRankingPartidas(jugador);
+            mostrarInformacionRankingPartidas(jugador,puesto);
+            puesto++;
         }
     }
 
     private void crearJugadores(ArrayList<String> datosParaCrearJugadores) {
         jugadores = procesos.CrearJugadores(datosParaCrearJugadores);
+        System.out.println(jugadores);
     }
 
-    private void mostrarInformacionRankingPartidas(Jugador jugador) {
-        txAreaRankPartidas.appendText(jugador.getNombre() + "--> " + jugador.getPartidasGanadas() + "\n");
+    private void mostrarInformacionRankingPartidas(Jugador jugador,int puesto) {
+        txAreaRankPartidas.appendText(puesto + "º " + jugador.getNombre() + "--> " + jugador.getPartidasGanadas() + "\n");
     }
 
     private void mostrarDatosPuntosDat(ArrayList<Jugador> jugadores){
+        int puesto = 1;
+        ordenarJugadoresPorPuntos();
         for (Jugador jugador: jugadores){
-            txAreaRankPuntosTotales.appendText(jugador.getNombre() + "--> " + jugador.getPuntosTotales() + "\n");
+            txAreaRankPuntosTotales.appendText(puesto + "º " +jugador.getNombre() + "--> " + jugador.getPuntosTotales() + "\n");
+            puesto++;
         }
     }
 
@@ -249,16 +257,18 @@ public class HelloController {
      */
 
     private void mostrarDatosPuntos() {
+        int puesto = 1;
         borrarAreaRankingPuntos();
         ordenarJugadoresPorPuntos();
 
         for(Jugador jugador: jugadores){
-            mostrarInformacionRankingPuntos(jugador);
+            mostrarInformacionRankingPuntos(jugador,puesto);
+            puesto++;
         }
     }
 
-    private void mostrarInformacionRankingPuntos(Jugador jugador) {
-        txAreaRankPuntosTotales.appendText(jugador.getNombre() + "--> " + jugador.getPuntosTotales()+ "\n");
+    private void mostrarInformacionRankingPuntos(Jugador jugador,int puesto) {
+        txAreaRankPuntosTotales.appendText(puesto + "º " +jugador.getNombre() + "--> " + jugador.getPuntosTotales()+ "\n");
     }
 
     /**

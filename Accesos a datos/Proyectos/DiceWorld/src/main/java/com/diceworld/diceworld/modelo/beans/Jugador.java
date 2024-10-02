@@ -13,6 +13,7 @@ public class Jugador  implements java.io.Serializable {
     private int puntosPorPartida;
     private ArrayList<Dado> dados;
 
+
     public Jugador(String nombre, int partidasGanadas, int puntos) {
         this.nombre = nombre;
         this.partidasGanadas = partidasGanadas;

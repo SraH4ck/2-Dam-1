@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Introduccion_Ide_visual_Studio
-build_property.ProjectDir = C:\Users\antonio\source\repos\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\
+build_property.ProjectDir = C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\Introduccion_Ide_visual_Studio\Introduccion_Ide_visual_Studio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

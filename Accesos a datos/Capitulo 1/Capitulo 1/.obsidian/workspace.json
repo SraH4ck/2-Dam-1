@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "647d83dc6c70bf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b691f57d63c95c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cb62773ea63fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manejo de ficheros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22216302a7cee139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdcc67b8993d71b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 Clases asociadas a las operaciones de gestión de ficheros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58db378d8e594881",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f1bad09f310e069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd95f55b9e3ec2e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc3aa2bb9b6d009e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc30fcb4e7a3f28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "949eb9752665d725",
+    "type": "split",
+    "children": [
+      {
+        "id": "710eb1147ba54d30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af32802e42c78e92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.2 Clases asociadas a las operaciones de gestión de ficheros.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9cb9d003c75e1d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.2 Clases asociadas a las operaciones de gestión de ficheros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5994c4d868c65d46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0375868a23357b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.2 Clases asociadas a las operaciones de gestión de ficheros.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cdcc67b8993d71b3",
+  "lastOpenFiles": [
+    "Pasted image 20241002003355.png",
+    "Pasted image 20241002002802.png",
+    "1.1 Introducción.md",
+    "1.2 Clases asociadas a las operaciones de gestión de ficheros.md",
+    "Manejo de ficheros.md",
+    "Bienvenido.md"
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\bin\Debug\net8.0\ConsoleAppTipoDatos.exe
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\bin\Debug\net8.0\ConsoleAppTipoDatos.deps.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\bin\Debug\net8.0\ConsoleAppTipoDatos.runtimeconfig.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\bin\Debug\net8.0\ConsoleAppTipoDatos.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\bin\Debug\net8.0\ConsoleAppTipoDatos.pdb
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.AssemblyInfoInputs.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.AssemblyInfo.cs
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.sourcelink.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\refint\ConsoleAppTipoDatos.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.pdb
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ConsoleAppTipoDatos.genruntimeconfig.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleAppTipoDatos\ConsoleAppTipoDatos\obj\Debug\net8.0\ref\ConsoleAppTipoDatos.dll

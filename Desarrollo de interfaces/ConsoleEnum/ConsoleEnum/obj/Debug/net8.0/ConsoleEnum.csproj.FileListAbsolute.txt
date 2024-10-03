@@ -1,0 +1,15 @@
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\bin\Debug\net8.0\ConsoleEnum.exe
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\bin\Debug\net8.0\ConsoleEnum.deps.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\bin\Debug\net8.0\ConsoleEnum.runtimeconfig.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\bin\Debug\net8.0\ConsoleEnum.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\bin\Debug\net8.0\ConsoleEnum.pdb
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.AssemblyInfoInputs.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.AssemblyInfo.cs
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.sourcelink.json
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\refint\ConsoleEnum.dll
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.pdb
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.genruntimeconfig.cache
+C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ref\ConsoleEnum.dll

@@ -382,7 +382,6 @@ public class HelloController {
 
     private void jugarPartida(int numPartidas) {
         if (jugadores != null) {
-
             // Bucle para jugar varias partidas
             partidas(numPartidas);
         } else {
@@ -401,13 +400,10 @@ public class HelloController {
             Jugador jugadorConMasPuntos = null;
             int maxPuntos = Integer.MIN_VALUE;
 
-            // Los jugadores tiran los dados en la partida
             tiradasJugadores();
 
-            // Determinar quién tiene la mayor puntuación
             jugadorConMasPuntos = determinarMayorPuntuacion(maxPuntos,jugadorConMasPuntos);
 
-            // Incrementar las partidas ganadas del jugador con más puntos
             incrementarPartidasGanadas(jugadorConMasPuntos);
         }
     }
@@ -479,7 +475,7 @@ public class HelloController {
         alert.setContentText("Si sales, se cerrará la aplicación.");
 
         if (alert.showAndWait().get() == ButtonType.OK) {
-            Platform.exit();  // Cerrar la aplicación si el usuario presiona Aceptar
+            Platform.exit();
         }
     }
 }

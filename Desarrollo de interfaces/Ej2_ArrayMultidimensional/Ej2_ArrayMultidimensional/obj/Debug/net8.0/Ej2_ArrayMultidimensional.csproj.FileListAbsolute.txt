@@ -1,0 +1,15 @@
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\bin\Debug\net8.0\Ej2_ArrayMultidimensional.exe
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\bin\Debug\net8.0\Ej2_ArrayMultidimensional.deps.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\bin\Debug\net8.0\Ej2_ArrayMultidimensional.runtimeconfig.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\bin\Debug\net8.0\Ej2_ArrayMultidimensional.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\bin\Debug\net8.0\Ej2_ArrayMultidimensional.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.AssemblyInfoInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.AssemblyInfo.cs
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.sourcelink.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\refint\Ej2_ArrayMultidimensional.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\Ej2_ArrayMultidimensional.genruntimeconfig.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej2_ArrayMultidimensional\Ej2_ArrayMultidimensional\obj\Debug\net8.0\ref\Ej2_ArrayMultidimensional.dll

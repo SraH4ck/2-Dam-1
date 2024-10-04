@@ -1,0 +1,15 @@
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.AssemblyInfoInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.AssemblyInfo.cs
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.sourcelink.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\bin\Debug\net8.0\Ej03_GestionInventarioDictionary.exe
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\bin\Debug\net8.0\Ej03_GestionInventarioDictionary.deps.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\bin\Debug\net8.0\Ej03_GestionInventarioDictionary.runtimeconfig.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\bin\Debug\net8.0\Ej03_GestionInventarioDictionary.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\bin\Debug\net8.0\Ej03_GestionInventarioDictionary.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\refint\Ej03_GestionInventarioDictionary.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\Ej03_GestionInventarioDictionary.genruntimeconfig.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej03_GestionInventarioDictionary\Ej03_GestionInventarioDictionary\obj\Debug\net8.0\ref\Ej03_GestionInventarioDictionary.dll

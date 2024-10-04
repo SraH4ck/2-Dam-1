@@ -1,0 +1,15 @@
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\bin\Debug\net8.0\Ej1_OperacionesConArray.exe
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\bin\Debug\net8.0\Ej1_OperacionesConArray.deps.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\bin\Debug\net8.0\Ej1_OperacionesConArray.runtimeconfig.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\bin\Debug\net8.0\Ej1_OperacionesConArray.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\bin\Debug\net8.0\Ej1_OperacionesConArray.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.AssemblyInfoInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.AssemblyInfo.cs
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.csproj.CoreCompileInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.sourcelink.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\refint\Ej1_OperacionesConArray.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.pdb
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\Ej1_OperacionesConArray.genruntimeconfig.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\Ej1_OperacionesConArray\Ej1_OperacionesConArray\obj\Debug\net8.0\ref\Ej1_OperacionesConArray.dll

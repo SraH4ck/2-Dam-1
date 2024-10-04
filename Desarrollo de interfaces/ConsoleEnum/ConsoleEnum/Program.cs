@@ -78,7 +78,7 @@
 
             Ficha fichaAlum2 = new Ficha("Antonio", "Mesa Sánchez" , 27);
             Console.WriteLine(fichaAlum2);
-            Console.WriteLine(fichaAlum2.getNombre();
+            Console.WriteLine(fichaAlum2.getNombre());
         }
     }
 }

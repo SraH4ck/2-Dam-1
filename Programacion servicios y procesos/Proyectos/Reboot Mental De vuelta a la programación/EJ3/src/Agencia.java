@@ -7,7 +7,7 @@ public class Agencia {
         viajesGestionados = new Viaje[200];
     }
 
-    public static double getSumatorioTotal(LocalDate fechaInicio, LocalDate fechaFin,String nombreHotel) {
+    public static double getSumatorioTotal(LocalDate fechaInicio, LocalDate fechaFin,String nombreHotel) throws ErrorAlBuscarViaje {
         double sumatorio = 0;
         for (Viaje viajesGestionado : viajesGestionados) {
             if (viajesGestionado != null) {
@@ -20,7 +20,7 @@ public class Agencia {
             }
         }
         if(sumatorio == 0){
-            System.out.println("No se han encontrado viajes en la lista con estas condiciones");
+            throw new ErrorAlBuscarViaje("No se ha encontrado el total");
         }
         return sumatorio;
     }

@@ -53,23 +53,28 @@ public class Programa {
     }
 
 
-    private void consultarPrecioTotalViajesContratados() {
+    private void consultarPrecioTotalViajesContratados()  {
         String nombreHotel = obtenerNombreHotel("Introduce el nombre del hotel que quieres consultar");
         LocalDate fechaInicio;
         LocalDate fechaFin;
+        try{
+            do {
+                fechaInicio = obtenerFecha("Introduce la fecha inicial (dd/MM/yyyy):");
+                fechaFin = obtenerFecha("Introduce la fecha final (dd/MM/yyyy):");
 
-        do {
-            fechaInicio = obtenerFecha("Introduce la fecha inicial (dd/MM/yyyy):");
-            fechaFin = obtenerFecha("Introduce la fecha final (dd/MM/yyyy):");
+                if (fechaFin.isBefore(fechaInicio)) {
+                    System.out.println("Error: La fecha final no puede ser anterior a la fecha inicial. Inténtalo de nuevo.");
+                }
+            } while (fechaFin.isBefore(fechaInicio));
 
-            if (fechaFin.isBefore(fechaInicio)) {
-                System.out.println("Error: La fecha final no puede ser anterior a la fecha inicial. Inténtalo de nuevo.");
-            }
-        } while (fechaFin.isBefore(fechaInicio));
+            // Una vez validadas las fechas, obtenemos y mostramos el sumatorio total de los viajes
+            double sumatorio = Agencia.getSumatorioTotal(fechaInicio, fechaFin, nombreHotel);
+            System.out.println("Sumatorio total de precio de los viajes: " + sumatorio + "€");
+        }catch (ErrorAlBuscarViaje e){
+            System.out.println(e.getMessage());
+        }
 
-        // Una vez validadas las fechas, obtenemos y mostramos el sumatorio total de los viajes
-        double sumatorio = Agencia.getSumatorioTotal(fechaInicio, fechaFin, nombreHotel);
-        System.out.println("Sumatorio total de precio de los viajes: " + sumatorio + "€");
+
     }
 
     private LocalDate obtenerFecha(String mensaje) {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleEnum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+877b641c980ed40b861bc7b4ee3ad00596778bb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75d205c55332ad16968e97b7bccb843faa151c3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleEnum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleEnum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

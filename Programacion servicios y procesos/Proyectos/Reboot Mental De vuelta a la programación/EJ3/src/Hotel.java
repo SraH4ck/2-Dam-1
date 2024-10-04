@@ -1,6 +1,6 @@
 public class Hotel {
     private int numeroDeEstrellas;
-    private int precioNoche;
+    private double precioNoche;
     private String nombre;
 
     public Hotel(int numeroDeEstrellas, int precioNoche, String nombre) {
@@ -13,7 +13,7 @@ public class Hotel {
         return numeroDeEstrellas;
     }
 
-    public int getPrecioNoche() {
+    public double getPrecioNoche() {
         return precioNoche;
     }
 

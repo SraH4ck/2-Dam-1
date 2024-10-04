@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antonio\\Desktop\\DAM_2\\2-Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj": {}
+    "C:\\Users\\alumno2DAM\\Desktop\\2Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antonio\\Desktop\\DAM_2\\2-Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj": {
+    "C:\\Users\\alumno2DAM\\Desktop\\2Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antonio\\Desktop\\DAM_2\\2-Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj",
+        "projectUniqueName": "C:\\Users\\alumno2DAM\\Desktop\\2Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj",
         "projectName": "ConsoleEnum",
-        "projectPath": "C:\\Users\\antonio\\Desktop\\DAM_2\\2-Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj",
-        "packagesPath": "C:\\Users\\antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antonio\\Desktop\\DAM_2\\2-Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\obj\\",
+        "projectPath": "C:\\Users\\alumno2DAM\\Desktop\\2Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\ConsoleEnum.csproj",
+        "packagesPath": "C:\\Users\\alumno2DAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumno2DAM\\Desktop\\2Dam\\Desarrollo de interfaces\\ConsoleEnum\\ConsoleEnum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumno2DAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

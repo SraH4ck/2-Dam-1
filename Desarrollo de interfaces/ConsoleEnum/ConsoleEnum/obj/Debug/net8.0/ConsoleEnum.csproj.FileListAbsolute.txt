@@ -13,3 +13,11 @@ C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\Consol
 C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.pdb
 C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.genruntimeconfig.cache
 C:\Users\antonio\Desktop\DAM_2\2-Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ref\ConsoleEnum.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.AssemblyInfoInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.AssemblyInfo.cs
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.csproj.CoreCompileInputs.cache
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.sourcelink.json
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\refint\ConsoleEnum.dll
+C:\Users\alumno2DAM\Desktop\2Dam\Desarrollo de interfaces\ConsoleEnum\ConsoleEnum\obj\Debug\net8.0\ConsoleEnum.pdb

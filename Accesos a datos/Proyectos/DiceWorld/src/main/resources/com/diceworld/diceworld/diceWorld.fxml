@@ -28,8 +28,8 @@
       </Button>
       <Label fx:id="lblRankPartidas" layoutX="119.0" layoutY="209.0" text="Ranking por Partidas" />
       <Label fx:id="lblRankPuntosTotales" layoutX="353.0" layoutY="209.0" text="Ranking por Puntos totales" />
-      <TextArea fx:id="txAreaRankPartidas" layoutX="69.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0" />
-      <TextArea fx:id="txAreaRankPuntosTotales" layoutX="324.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0" />
+      <TextArea fx:id="txAreaRankPartidas" editable="false" layoutX="69.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0" />
+      <TextArea fx:id="txAreaRankPuntosTotales" editable="false" layoutX="324.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0" />
       <TextFlow fx:id="areaError" layoutX="70.0" layoutY="445.0" prefHeight="81.0" prefWidth="455.0" />
    </children>
 </Pane>

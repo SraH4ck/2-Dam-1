@@ -118,6 +118,7 @@ public class HelloController {
         String extension;
         if (validarArchivo(file)) {
             posicionExtension = file.getName().indexOf("."); //devuelve la posición del punto
+
             // sumamos uno para quedarnos con el contenido despues del punto
             extension = file.getName().substring(posicionExtension + 1 );
             if(extension.equals("txt")){
@@ -236,7 +237,6 @@ public class HelloController {
 
     private void crearJugadores(ArrayList<String> datosParaCrearJugadores) {
         jugadores = procesos.CrearJugadores(datosParaCrearJugadores);
-        System.out.println(jugadores);
     }
 
     private void mostrarInformacionRankingPartidas(Jugador jugador,int puesto) {
@@ -364,7 +364,7 @@ public class HelloController {
             int numCarasDados = Integer.parseInt(txfieldNumCaras.getText());
             int numPartidas = Integer.parseInt(txfieldNumPartidas.getText());
 
-            if(cantidadDados > 0 && numCarasDados > 3 && numPartidas > 0){
+            if(cantidadDados > 0 && numCarasDados >= 3 && numPartidas > 0){
                 crearDados(cantidadDados,numCarasDados);
                 jugarPartida(numPartidas);
             }else {
@@ -382,6 +382,7 @@ public class HelloController {
 
     private void jugarPartida(int numPartidas) {
         if (jugadores != null) {
+
             // Bucle para jugar varias partidas
             partidas(numPartidas);
         } else {
@@ -447,8 +448,7 @@ public class HelloController {
 
     private void tiradasJugadores() {
         for (Jugador jugador : jugadores) {
-            jugador.tirarDados(dados); // Actualiza los puntos del jugador
-            System.out.println(jugador);
+            jugador.tirarDados(dados);
         }
     }
 

@@ -95,7 +95,6 @@ public class Lectura {
             String cadena;
             while ((cadena = br.readLine()) != null) {
                 cadenasLeidas.add(cadena);
-                System.out.println("Cadena leída: " + cadena);
             }
         }
         return cadenasLeidas;
